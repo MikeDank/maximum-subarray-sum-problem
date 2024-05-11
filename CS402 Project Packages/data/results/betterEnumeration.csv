@@ -1,0 +1,21 @@
+date,algorithm,n,running time
+2024-05-10,BetterEnumeration,100,118819
+2024-05-10,BetterEnumeration,200,453638
+2024-05-10,BetterEnumeration,300,199333
+2024-05-10,BetterEnumeration,400,159458
+2024-05-10,BetterEnumeration,500,262819
+2024-05-10,BetterEnumeration,600,468986
+2024-05-10,BetterEnumeration,700,259680
+2024-05-10,BetterEnumeration,800,250695
+2024-05-10,BetterEnumeration,900,216652
+2024-05-10,BetterEnumeration,1000,245152
+2024-05-10,BetterEnumeration,1000,252444
+2024-05-10,BetterEnumeration,2000,998125
+2024-05-10,BetterEnumeration,3000,2255222
+2024-05-10,BetterEnumeration,4000,4055278
+2024-05-10,BetterEnumeration,5000,6286374
+2024-05-10,BetterEnumeration,6000,9069125
+2024-05-10,BetterEnumeration,7000,12329791
+2024-05-10,BetterEnumeration,8000,16123069
+2024-05-10,BetterEnumeration,9000,20257611
+2024-05-10,BetterEnumeration,10000,25195055

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SubarrayAlgorithmTest
+comment0.text=\n\ Provides\ JUnit\ tests\ for\ the\ subarray\ algorithms\ implemented\ in\ the\ algorithms\ package.\n\ Tests\ include\ general\ usage\ cases\ and\ edge\ cases\ to\ ensure\ that\ each\ algorithm\ correctly\ computes\n\ the\ maximum\ subarray\ sum\ under\ various\ conditions.\n\n\ @author\ Michael\ Dankanich\n\ @version\ May\ 10,\ 2024\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\n\ Sets\ up\ instances\ of\ each\ subarray\ algorithm\ before\ each\ test.\n
+comment2.params=
+comment2.target=void\ testAlgorithmsWithExample()
+comment2.text=\n\ Tests\ each\ algorithm\ with\ a\ sample\ array\ to\ ensure\ they\ all\ find\ the\ correct\ maximum\ subarray\ sum.\n
+comment3.params=
+comment3.target=void\ testEdgeCases()
+comment3.text=\n\ Tests\ edge\ cases\ including\ empty\ arrays,\ arrays\ with\ all\ negative\ numbers,\ and\ single-element\ arrays.\n
+numComments=4

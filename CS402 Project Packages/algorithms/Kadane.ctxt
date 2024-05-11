@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Kadane
+comment0.text=\n\ Implements\ Kadane's\ algorithm\ for\ finding\ the\ maximum\ subarray\ sum.\n\ This\ dynamic\ programming\ approach\ calculates\ the\ maximum\ sum\ of\ a\ contiguous\ subarray\ in\ linear\ time,\n\ effectively\ handling\ arrays\ with\ both\ positive\ and\ negative\ integers.\n\n\ @author\ Michael\ Dankanich\n\ @version\ May\ 10,\ 2024\n
+comment1.params=array
+comment1.target=int\ findMaximumSubarray(int[])
+comment1.text=\n\ Calculates\ the\ maximum\ sum\ of\ any\ contiguous\ subarray\ within\ the\ given\ array\ using\ Kadane's\ algorithm.\n\ The\ method\ iterates\ through\ the\ array,\ at\ each\ step\ extending\ the\ current\ subarray\ sum\ or\ resetting\ it\ based\ on\ its\ value.\n\n\ @param\ array\ An\ array\ of\ integers\ where\ the\ maximum\ subarray\ sum\ is\ to\ be\ found.\n\ @return\ The\ maximum\ sum\ of\ any\ contiguous\ subarray\ within\ the\ array.\ Returns\ 0\ if\ the\ array\ is\ empty\ or\ if\ all\ elements\ are\ non-positive.\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Enumeration
+comment0.text=\n\ Implements\ the\ Enumeration\ algorithm\ to\ find\ the\ maximum\ subarray\ sum.\n\ This\ is\ a\ brute\ force\ approach\ that\ examines\ every\ possible\ subarray\ in\ the\ given\ array\n\ to\ determine\ the\ maximum\ sum.\n\n\ @author\ Michael\ Dankanich\n\ @version\ May\ 10,\ 2024\n
+comment1.params=array
+comment1.target=int\ findMaximumSubarray(int[])
+comment1.text=\n\ Calculates\ the\ maximum\ sum\ of\ any\ contiguous\ subarray\ within\ the\ given\ array\ using\ a\ brute\ force\ approach.\n\ This\ method\ iteratively\ checks\ all\ possible\ subarrays\ to\ find\ the\ subarray\ with\ the\ maximum\ sum.\n\n\ @param\ array\ An\ array\ of\ integers\ where\ the\ maximum\ subarray\ sum\ is\ to\ be\ found.\n\ @return\ The\ maximum\ sum\ of\ any\ contiguous\ subarray\ within\ the\ array.\ Returns\ 0\ if\ the\ array\ is\ empty\ or\ all\ elements\ are\ negative.\n
+numComments=2

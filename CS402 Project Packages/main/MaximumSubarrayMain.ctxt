@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MaximumSubarrayMain
+comment0.text=\n\ The\ main\ entry\ point\ for\ running\ the\ maximum\ subarray\ sum\ algorithms.\n\ This\ class\ handles\ user\ input\ to\ execute\ different\ algorithms\ based\ on\ command\ line\ arguments,\n\ including\ data\ generation\ and\ reading\ from\ a\ test\ file.\n\n\ @author\ Michael\ Dankanich\n\ @version\ May\ 10,\ 2024\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Main\ method\ that\ processes\ the\ command\ line\ arguments\ and\ invokes\ the\ appropriate\ subarray\ algorithm.\n\ @param\ args\ Command\ line\ arguments\ to\ specify\ the\ algorithm\ and\ input\ method.\n
+numComments=2

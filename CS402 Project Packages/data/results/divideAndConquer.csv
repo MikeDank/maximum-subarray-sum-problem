@@ -1,0 +1,21 @@
+date,algorithm,n,running time
+2024-05-10,DivideAndConquer,100,45972
+2024-05-10,DivideAndConquer,200,138930
+2024-05-10,DivideAndConquer,300,18194
+2024-05-10,DivideAndConquer,400,105264
+2024-05-10,DivideAndConquer,500,36416
+2024-05-10,DivideAndConquer,600,28069
+2024-05-10,DivideAndConquer,700,33625
+2024-05-10,DivideAndConquer,800,37555
+2024-05-10,DivideAndConquer,900,45375
+2024-05-10,DivideAndConquer,1000,91236
+2024-05-10,DivideAndConquer,1000,51444
+2024-05-10,DivideAndConquer,2000,105611
+2024-05-10,DivideAndConquer,3000,159361
+2024-05-10,DivideAndConquer,4000,85097
+2024-05-10,DivideAndConquer,5000,102110
+2024-05-10,DivideAndConquer,6000,119264
+2024-05-10,DivideAndConquer,7000,143999
+2024-05-10,DivideAndConquer,8000,167347
+2024-05-10,DivideAndConquer,9000,199000
+2024-05-10,DivideAndConquer,10000,215652

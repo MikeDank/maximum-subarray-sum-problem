@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SubarrayAlgorithm
+comment0.text=\n\ Defines\ the\ structure\ for\ subarray\ algorithms\ used\ to\ find\ the\ maximum\ subarray\ sum.\n\ This\ interface\ is\ implemented\ by\ various\ algorithms\ that\ solve\ the\ maximum\ subarray\ sum\ problem,\n\ ensuring\ that\ they\ all\ provide\ a\ method\ for\ finding\ the\ maximum\ sum\ in\ an\ integer\ array.\n\n\ @author\ Michael\ Dankanich\n\ @version\ May\ 10,\ 2024\n
+comment1.params=array
+comment1.target=int\ findMaximumSubarray(int[])
+comment1.text=\n\ Calculates\ the\ maximum\ sum\ of\ any\ contiguous\ subarray\ within\ the\ given\ array.\n\ @param\ array\ An\ array\ of\ integers.\n\ @return\ The\ maximum\ subarray\ sum\ found\ in\ the\ array.\n
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DivideAndConquer
+comment0.text=\n\ Implements\ the\ Divide\ and\ Conquer\ algorithm\ to\ find\ the\ maximum\ subarray\ sum.\n\ This\ approach\ splits\ the\ array\ into\ two\ halves\ and\ recursively\ finds\ the\ maximum\ subarray\ sum\n\ in\ each\ half,\ and\ also\ considers\ the\ maximum\ sum\ that\ crosses\ the\ midpoint.\n\n\ @author\ Michael\ Dankanich\n\ @version\ May\ 10,\ 2024\n
+comment1.params=array
+comment1.target=int\ findMaximumSubarray(int[])
+comment1.text=\n\ Calculates\ the\ maximum\ subarray\ sum\ for\ the\ entire\ array\ by\ invoking\ the\ recursive\ divide\ and\ conquer\ method.\n\ @param\ array\ An\ array\ of\ integers.\n\ @return\ The\ maximum\ subarray\ sum\ found\ in\ the\ array,\ or\ 0\ if\ the\ array\ is\ empty.\n
+comment2.params=array\ low\ high
+comment2.target=int\ divideAndConquer(int[],\ int,\ int)
+comment2.text=\n\ Recursively\ divides\ the\ array\ into\ halves\ to\ find\ the\ maximum\ subarray\ sum\ within\ each\ half,\n\ and\ also\ finds\ the\ maximum\ sum\ that\ crosses\ the\ midpoint,\ combining\ these\ to\ get\ the\ global\ maximum.\n\n\ @param\ array\ The\ input\ array.\n\ @param\ low\ The\ starting\ index\ of\ the\ current\ subarray.\n\ @param\ high\ The\ ending\ index\ of\ the\ current\ subarray.\n\ @return\ The\ maximum\ subarray\ sum\ in\ the\ given\ range.\n
+comment3.params=array\ low\ mid\ high
+comment3.target=int\ findMaxCrossingSum(int[],\ int,\ int,\ int)
+comment3.text=\n\ Finds\ the\ maximum\ sum\ of\ a\ subarray\ that\ crosses\ the\ midpoint\ of\ the\ array.\n\n\ @param\ array\ The\ input\ array.\n\ @param\ low\ The\ starting\ index\ of\ the\ left\ subarray.\n\ @param\ mid\ The\ midpoint\ index,\ where\ the\ left\ and\ right\ subarrays\ meet.\n\ @param\ high\ The\ ending\ index\ of\ the\ right\ subarray.\n\ @return\ The\ maximum\ sum\ of\ a\ subarray\ crossing\ the\ midpoint.\n
+numComments=4

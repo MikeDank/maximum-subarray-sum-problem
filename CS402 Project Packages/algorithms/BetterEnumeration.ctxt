@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BetterEnumeration
+comment0.text=\n\ Implements\ the\ Better\ Enumeration\ algorithm\ for\ finding\ the\ maximum\ subarray\ sum.\n\ This\ version\ optimizes\ the\ basic\ enumeration\ approach\ by\ reducing\ unnecessary\ recomputation\n\ of\ sums\ that\ have\ already\ been\ computed,\ thus\ improving\ efficiency.\n\n\ @author\ Michael\ Dankanich\n\ @version\ May\ 10,\ 2024\n
+comment1.params=array
+comment1.target=int\ findMaximumSubarray(int[])
+comment1.text=\n\ Calculates\ the\ maximum\ sum\ of\ any\ contiguous\ subarray\ within\ the\ given\ array\ using\ an\ optimized\ enumeration\ approach.\n\ This\ method\ iteratively\ adds\ the\ next\ element\ in\ the\ array\ to\ the\ current\ subarray\ sum\ to\ avoid\ starting\ the\ sum\ from\ scratch.\n\n\ @param\ array\ An\ array\ of\ integers\ where\ the\ maximum\ subarray\ sum\ is\ to\ be\ found.\n\ @return\ The\ maximum\ sum\ of\ any\ contiguous\ subarray\ within\ the\ array.\ Returns\ 0\ if\ the\ array\ is\ empty\ or\ all\ elements\ are\ negative.\n
+numComments=2

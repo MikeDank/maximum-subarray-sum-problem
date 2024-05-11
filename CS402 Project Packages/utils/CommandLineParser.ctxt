@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CommandLineParser
+comment0.text=\n\ Parses\ command\ line\ arguments\ to\ extract\ options\ for\ running\ the\ maximum\ subarray\ sum\ algorithms.\n\ It\ handles\ input\ for\ selecting\ the\ algorithm,\ the\ size\ of\ the\ data,\ or\ the\ test\ file\ to\ be\ used.\n\n\ @author\ Michael\ Dankanich\n\ @version\ May\ 10,\ 2024\n
+comment1.params=args
+comment1.target=CommandLineParser(java.lang.String[])
+comment1.text=\n\ Constructor\ for\ the\ CommandLineParser.\n\ @param\ args\ The\ command-line\ arguments\ passed\ to\ the\ main\ function.\n
+comment2.params=
+comment2.target=CommandLineParser.CommandLineOptions\ parse()
+comment2.text=\n\ Parses\ the\ command-line\ arguments\ and\ creates\ a\ CommandLineOptions\ object\ containing\ the\ parsed\ options.\n\ @return\ A\ populated\ CommandLineOptions\ object.\n
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PerformanceAnalysis
+comment0.text=\n\ Handles\ the\ performance\ analysis\ of\ different\ subarray\ algorithms.\n\ This\ class\ conducts\ experiments\ on\ various\ algorithms\ to\ determine\ their\ runtime\ performance\n\ across\ different\ input\ sizes\ and\ outputs\ the\ results\ to\ CSV\ files.\n\n\ @author\ Michael\ Dankanich\n\ @version\ May\ 10,\ 2024\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Main\ method\ to\ run\ the\ performance\ experiments\ for\ all\ algorithms.\n\ @param\ args\ Command\ line\ arguments\ (not\ used\ in\ this\ application).\n
+comment2.params=algorithm\ algorithmName
+comment2.target=void\ runExperiments(algorithms.SubarrayAlgorithm,\ java.lang.String)
+comment2.text=\n\ Runs\ performance\ experiments\ for\ a\ given\ algorithm\ and\ writes\ the\ results\ to\ a\ CSV\ file.\n\ @param\ algorithm\ The\ algorithm\ to\ test.\n\ @param\ algorithmName\ The\ name\ of\ the\ algorithm,\ used\ in\ naming\ the\ output\ file.\n
+comment3.params=algorithm\ sizes\ writer
+comment3.target=void\ performExperimentsForSizes(algorithms.SubarrayAlgorithm,\ int[],\ java.io.FileWriter)
+comment3.text=\n\ Performs\ the\ experiments\ for\ the\ given\ sizes\ and\ records\ the\ running\ time.\n\ @param\ algorithm\ The\ algorithm\ to\ test.\n\ @param\ sizes\ The\ array\ sizes\ for\ which\ to\ test\ the\ algorithm.\n\ @param\ writer\ The\ FileWriter\ used\ to\ record\ results.\n\ @throws\ IOException\ If\ an\ I/O\ error\ occurs\ while\ writing\ to\ the\ file.\n
+numComments=4

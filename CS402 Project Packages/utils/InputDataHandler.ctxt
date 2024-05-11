@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InputDataHandler
+comment0.text=\n\ Handles\ the\ creation\ and\ reading\ of\ data\ for\ maximum\ subarray\ sum\ algorithms.\n\ Provides\ methods\ to\ generate\ random\ arrays\ and\ read\ test\ cases\ from\ a\ file.\n\n\ @author\ Michael\ Dankanich\n\ @version\ May\ 10,\ 2024\n
+comment1.params=size
+comment1.target=int[]\ generateRandomArray(int)
+comment1.text=\n\ Generates\ an\ array\ of\ random\ integers.\n\ @param\ size\ The\ number\ of\ elements\ in\ the\ array.\n\ @return\ An\ array\ filled\ with\ random\ integers\ between\ -100\ and\ 100.\n
+comment2.params=fileName
+comment2.target=readTestCases(java.lang.String)
+comment2.text=\n\ Reads\ test\ cases\ from\ a\ specified\ file.\n\ Each\ line\ in\ the\ file\ represents\ a\ test\ case\ with\ an\ array\ of\ integers.\n\ @param\ fileName\ The\ name\ of\ the\ file\ containing\ the\ test\ cases.\n\ @return\ A\ list\ of\ integer\ arrays,\ each\ representing\ a\ test\ case.\n\ @throws\ IOException\ If\ an\ error\ occurs\ while\ reading\ the\ file.\n
+numComments=3
