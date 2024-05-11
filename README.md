@@ -60,5 +60,5 @@ To execute the tests, navigate to the `SubarrayAlgorithmTest` class in the test 
 - Run the `PerformanceAnalysis` class:
   - Right-click on the class and choose `void main(String[] args)`.
   - Leave the popup field blank (`{}`) and proceed.
-  - Ensure the `data/results` directory exists within the project structure; create it if it does not exist to avoid errors.
+  - Ensure the `data/results` directory exists within the project structure; create it if it does not exist to avoid errors. Delete existing outputs if they are there to avoid errors.
   - Performance results will be outputted to CSV files in the `data/results` directory, detailing the date, algorithm, input size `n`, and running time.
